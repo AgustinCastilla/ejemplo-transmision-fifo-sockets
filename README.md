@@ -3,7 +3,7 @@ Prueba# ejemplo-envio-audio-sockets
 Programa solicitado en la 2da evaluación de la cursada de Informática 1:
 Se necesita implementar un sistema compuesto por tres archivos ejecutables diferentes que interactuarán entre si por medio de diferentes mecanismos de intercomunicación de procesos vistos durante el curso.
 
-![alt text](https://github.com/AgustinCastilla/ejemplo-transmision-fifo-sockets/blob/main/esquema.jpg?raw=false)
+![alt text](https://github.com/AgustinCastilla/ejemplo-transmision-fifo-sockets/blob/main/esquema.png?raw=false)
 
 En el archivo '2do.ParcialInfoI - 20181203.pdf' se encuentra el parcial completo donde se puede ver de forma mas detallada.
 
